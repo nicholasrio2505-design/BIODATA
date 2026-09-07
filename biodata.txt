@@ -1,0 +1,6 @@
+Nama = Nicholas Satria Prabowo
+Nim = 255314044
+Fakultas = Sains dan Teknologi
+Prodi = Informatika
+
+
