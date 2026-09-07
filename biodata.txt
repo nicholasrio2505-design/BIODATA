@@ -3,5 +3,6 @@ Nim = 255314044
 Fakultas = Sains dan Teknologi
 Prodi = Informatika
 Hobi = Olahraga
+Asal = Tangerang
 
 
